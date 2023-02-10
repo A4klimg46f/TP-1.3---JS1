@@ -1,0 +1,1 @@
+alert("Olá mundo! falo do arquivo scrip.js");
